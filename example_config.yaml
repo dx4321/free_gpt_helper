@@ -1,0 +1,9 @@
+# Для работы конфиг должен называться config.yaml
+
+db_name: base.db
+bot_token: xxxx
+proxy:
+  http: http://fishzon:xxxxxxx@proxy.bolid.ru:3128
+
+openai_api_key_default: xxxxx
+openai_test_model: gpt-3.5-turbo
